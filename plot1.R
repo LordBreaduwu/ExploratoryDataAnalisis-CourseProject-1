@@ -1,6 +1,6 @@
 # Coursera Data Science: Exploratory Data Analysis
 # Course project 1: Plot1
-# Cheng-Han Yu
+# Daniel Romero
 ################################################################################
 ## load the data
 rm(list = ls())
